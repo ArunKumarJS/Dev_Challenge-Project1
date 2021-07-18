@@ -8,8 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://arunkumarjs.github.io/Dev_Challenge-Project1/![Screenshot (14)](https://user-images.githubusercontent.com/40168317/126077730-7b202a6e-6d17-4a49-ad75-21351ced01b5.png)
-">
+    <a href="https://arunkumarjs.github.io/Dev_Challenge-Project1/">
       Demo
     </a>
     <span> | </span>
@@ -37,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/40168317/126077730-7b202a6e-6d17-4a49-ad75-21351ced01b5.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -70,4 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/ArunKumarJS})
+- GitHub [ArunKumarJS](https://{github.com/ArunKumarJS})
